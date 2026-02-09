@@ -6,7 +6,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabil-dev24)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nabil-Hossain-NBL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://nabilhossainportfolio.netlify.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://nabil-dev-website.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabilhossainprf@gmail.com)
   
   📍 Dhaka, Bangladesh | 📧 nabilhossainprf@gmail.com | 📱 +88 01893819920
@@ -149,7 +149,7 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 - 📧 **Email:** nabilhossainprf@gmail.com
 - 💼 **LinkedIn:** [nabil-dev24](https://linkedin.com/in/nabil-dev24)
 - 🐙 **GitHub:** [Nabil-Hossain-NBL](https://github.com/Nabil-Hossain-NBL)
-- 🌐 **Portfolio:** [nabilhossainportfolio.netlify.app](https://nabilhossainportfolio.netlify.app)
+- 🌐 **Portfolio:** [https://nabil-dev-website.vercel.app/](https://nabil-dev-website.vercel.app/)
 
 ---
 
