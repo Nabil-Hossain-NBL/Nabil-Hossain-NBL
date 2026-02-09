@@ -88,30 +88,6 @@ With a track record of delivering 70% faster page loads, improving user engageme
 
 ---
 
-## 🚀 Featured Projects
-
-### **Attendance Keeper** – HR & Attendance Management Platform
-**[Live Demo](https://attendancekeeper.net)**
-
-*Tech Stack: React, Next.js, Tailwind CSS, Axios, MongoDB, Node.js*
-
-- Developed comprehensive HR and attendance management platform with real-time tracking
-- Implemented clock-in/out system improving overall system efficiency
-- Improved content creation workflow by 40% with rich text editing experience
-- Built responsive admin dashboard with advanced filtering and reporting
-
-### **Apple iPhone 15 Pro – Interactive Showcase**
-**[Live Demo](https://nabiliphone.vercel.app)**
-
-*Tech Stack: React, GSAP, Three.js, Tailwind CSS*
-
-- Created immersive 3D product showcase with dynamic model rendering
-- Developed custom video carousel with GSAP animations for enhanced media browsing
-- Implemented interactive customization features (colors, sizes, configurations)
-- Achieved smooth 60fps animations and optimized performance
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
