@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nabil Hossain
 
-### Full-Stack Developer | React Specialist | Building Scalable Web Solutions
+### Full-Stack Developer | Building Scalable Web Solutions
 
 <div align="center">
   
