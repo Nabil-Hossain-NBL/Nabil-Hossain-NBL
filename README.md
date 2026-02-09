@@ -1,28 +1,160 @@
-![MasterHead](https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
-<h1 align="center">Hi 👋, I'm Nabil Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
+# 👋 Hi, I'm Nabil Hossain
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabil-hossain-nbl&label=Profile%20views&color=0e75b6&style=flat" alt="nabil-hossain-nbl" /> </p>
+### Full-Stack Developer | React Specialist | Building Scalable Web Solutions
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabil-dev24)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nabil-Hossain-NBL)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://nabilhossainportfolio.netlify.app)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabilhossainprf@gmail.com)
+  
+  📍 Dhaka, Bangladesh | 📧 nabilhossainprf@gmail.com | 📱 +88 01893819920
 
-- 💬 Ask me about **MERN**
+</div>
 
-- 📫 How to reach me **nabilhossainprf@gmail.com**
+---
 
-- ⚡ Fun fact **I am Funny**
+## 🎯 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nabil-hossain-mern-stack-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil-hossain-mern-stack-developer" height="30" width="40" /></a>
-</p>
+I'm a passionate full-stack developer with expertise in **React.js, Next.js**, and modern web technologies. I specialize in building high-performance, scalable applications with exceptional user experiences. Currently working as a Software Engineer at **AmarSolution**, where I develop ERP modules and procurement systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+With a track record of delivering 70% faster page loads, improving user engagement, and reducing bugs significantly, I'm committed to writing clean, maintainable code and following best practices in web development.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabil-hossain-nbl&show_icons=true&locale=en&layout=compact" alt="nabil-hossain-nbl" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabil-hossain-nbl&show_icons=true&locale=en" alt="nabil-hossain-nbl" /></p>
+## 💻 Technical Skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabil-hossain-nbl&" alt="nabil-hossain-nbl" /></p>
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logoColor=white)
+
+### State Management & Libraries
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=flat-square&logo=daisyui&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### **Software Engineer** @ AmarSolution
+*Uttara, Dhaka | Apr 2025 – Present*
+
+- Built and maintained ERP modules (purchase, RFQ, invoicing, receive notes) used by internal teams and clients
+- Implemented RFQ flow to support vendor bidding and selection, increasing procurement transparency and reducing decision time
+- Developed receive-note features to track inventory receipts, improving supply-chain accuracy and reducing reconciliation effort
+
+### **Software Engineer** @ Evident BD Ltd.
+*Uttara, Dhaka | Jul 2024 – Apr 2025*
+
+- Collaborated with cross-functional teams to build scalable web applications using React.js and Next.js
+- Optimized API calls with Axios, achieving 20% faster data retrieval
+- Debugged and resolved UI/UX issues, reducing user-reported bugs by 15% in large-scale projects
+- Implemented component reusability, responsive design, and accessibility best practices for consistent user-friendly interfaces
+
+### **Frontend Developer** @ Stuneckt
+*Bangalore, India | Nov 2023 – Jun 2024*
+
+- Led the development of the Stuneckt social networking product from concept to fully functional MVP
+- Enhanced user experience by cutting page load times by 70% through server-side rendering and static site generation with Next.js
+- Designed fully responsive website with Tailwind CSS, achieving 100% cross-device compatibility
+
+---
+
+## 🚀 Featured Projects
+
+### **Attendance Keeper** – HR & Attendance Management Platform
+**[Live Demo](https://attendancekeeper.net)**
+
+*Tech Stack: React, Next.js, Tailwind CSS, Axios, MongoDB, Node.js*
+
+- Developed comprehensive HR and attendance management platform with real-time tracking
+- Implemented clock-in/out system improving overall system efficiency
+- Improved content creation workflow by 40% with rich text editing experience
+- Built responsive admin dashboard with advanced filtering and reporting
+
+### **Apple iPhone 15 Pro – Interactive Showcase**
+**[Live Demo](https://nabiliphone.vercel.app)**
+
+*Tech Stack: React, GSAP, Three.js, Tailwind CSS*
+
+- Created immersive 3D product showcase with dynamic model rendering
+- Developed custom video carousel with GSAP animations for enhanced media browsing
+- Implemented interactive customization features (colors, sizes, configurations)
+- Achieved smooth 60fps animations and optimized performance
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabil-Hossain-NBL&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nabil-Hossain-NBL&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil-Hossain-NBL&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Business Administration in Marketing**  
+Tejgaon College | 2022 – 2026
+
+---
+
+## ⚡ Quick Facts
+
+- 🔥 Passionate about building performant, user-centric applications
+- 🎨 Love combining design with functionality using modern UI frameworks
+- 📚 Constantly learning and staying updated with latest web technologies
+- 🤝 Great team player with strong communication skills
+- 💡 Problem solver who enjoys tackling complex technical challenges
+
+---
+
+## 📬 Get In Touch
+
+I'm always interested in discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+
+- 📧 **Email:** nabilhossainprf@gmail.com
+- 💼 **LinkedIn:** [nabil-dev24](https://linkedin.com/in/nabil-dev24)
+- 🐙 **GitHub:** [Nabil-Hossain-NBL](https://github.com/Nabil-Hossain-NBL)
+- 🌐 **Portfolio:** [nabilhossainportfolio.netlify.app](https://nabilhossainportfolio.netlify.app)
+
+---
+
+<div align="center">
+
+**Let's build something amazing together! 🚀**
+
+</div>
